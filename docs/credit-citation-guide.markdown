@@ -8,21 +8,21 @@ Recommendation: Add Contributor Role Taxonomy
 
 # If you use the software directly with no help from the development team: 
 
-![](https://img.shields.io/badge/Status-Requirement-red.svg) Software is cited using the citation guidelines outlined on the website/readme. 
+![](https://shields.io/badge/-Requirement-red) Software is cited using the citation guidelines outlined on the website/readme. 
 
-![](https://img.shields.io/badge/Status-Requirement-red.svg)  If citation guidelines do not exist/can not be found contact author via email or open issue on tracker. 
+![](https://shields.io/badge/-Requirement-red)  If citation guidelines do not exist/can not be found contact author via email or open issue on tracker. 
 
-![](https://img.shields.io/badge/Status-Requirement-red.svg) If they do not reply to this - cite the website.
+![](https://shields.io/badge/-Requirement-red) If they do not reply to this - cite the website.
 
-![](https://img.shields.io/badge/Status-Requirement-red.svg) Cite software in text where it is used if possible. 
+![](https://shields.io/badge/-Requirement-red) Cite software in text where it is used if possible. 
 
-![](https://img.shields.io/badge/Status-Recommendation-green.svg) Specify the version that you use. This is how you normally get the version:
+![](https://shields.io/badge/-Recommendation-green) Specify the version that you use. This is how you normally get the version:
 
-![](https://img.shields.io/badge/Status-Recommendation-green.svg) Consider submitting your paper to the gallery on the website
+![](https://shields.io/badge/-Recommendation-green) Consider submitting your paper to the gallery on the website
 
-![](https://img.shields.io/badge/Status-Recommendation-green.svg) Consider submitting your models/scripts to the repo.
+![](https://shields.io/badge/-Recommendation-green) Consider submitting your models/scripts to the repo.
 
-![](https://img.shields.io/badge/Status-Recommendation-green.svg) If the software is foundational to your paper consider adding developers as co-authors?
+![](https://shields.io/badge/-Recommendation-green) If the software is foundational to your paper consider adding developers as co-authors?
 
 
 # If you use the software directly with help from one or more of the development team
