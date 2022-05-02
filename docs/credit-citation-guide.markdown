@@ -8,7 +8,7 @@ Recommendation: Add Contributor Role Taxonomy
 
 ### If you use the software directly with no help from the development team: 
 
-Requirements: - it needs to be cited using the citation guidelines outlined on the website/readme. 
+.. image:: https://img.shields.io/badge/Status-Requirement-red Software is cited using the citation guidelines outlined on the website/readme. 
 
 Requirements:  If citation guidelines do not exist/can not be found contact author via email or open issue on tracker. 
 
