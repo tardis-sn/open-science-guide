@@ -2,7 +2,7 @@
 layout: page
 title: "Credit & Citations"
 permalink: /credit/
-----
+---
 
 Recommendation: Add Contributor Role Taxonomy
 
