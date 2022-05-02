@@ -10,11 +10,11 @@ Recommendation: Add Contributor Role Taxonomy
 
 .. image:: https://img.shields.io/badge/Status-Requirement-red Software is cited using the citation guidelines outlined on the website/readme. 
 
-Requirements:  If citation guidelines do not exist/can not be found contact author via email or open issue on tracker. 
+.. image:: https://img.shields.io/badge/Status-Requirement-red  If citation guidelines do not exist/can not be found contact author via email or open issue on tracker. 
 
-Requirements: If they do not reply to this - cite the website.
+.. image:: https://img.shields.io/badge/Status-Requirement-red If they do not reply to this - cite the website.
 
-Recommendation: Cite software in text where it is used if possible. 
+.. image:: https://img.shields.io/badge/Status-Requirement-red Cite software in text where it is used if possible. 
 
 Recommendation: Specify the version that you use. This is how you normally get the version:
 
