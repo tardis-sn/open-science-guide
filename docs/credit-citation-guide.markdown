@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Credit & Citations"
-permalink: /credit/
+title: "Credit & Citations for Users"
+permalink: /credit_for_users/
 ---
 
 Recommendation: Add Contributor Role Taxonomy
